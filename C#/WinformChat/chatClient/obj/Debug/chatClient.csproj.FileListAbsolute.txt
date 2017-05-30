@@ -1,0 +1,14 @@
+D:\shoolshit\DNP1Git\semProject\semProjectClient\bin\Debug\semProjectClient.exe.config
+D:\shoolshit\DNP1Git\semProject\semProjectClient\obj\Debug\semProjectClient.exe
+D:\shoolshit\DNP1Git\semProject\semProjectClient\obj\Debug\semProjectClient.pdb
+D:\shoolshit\DNP1Git\semProject\semProjectClient\bin\Debug\semProjectClient.exe
+D:\shoolshit\DNP1Git\semProject\semProjectClient\bin\Debug\semProjectClient.pdb
+D:\shoolshit\DNP1Git\semProject\semProjectClient\obj\Debug\chatClient.csprojResolveAssemblyReference.cache
+D:\shoolshit\DNP1Git\semProject\semProjectClient\obj\Debug\chatClient.ChatForm.resources
+D:\shoolshit\DNP1Git\semProject\semProjectClient\obj\Debug\chatClient.LoginForm.resources
+D:\shoolshit\DNP1Git\semProject\semProjectClient\obj\Debug\chatClient.MainForm.resources
+D:\shoolshit\DNP1Git\semProject\semProjectClient\obj\Debug\semProjectClient.Properties.Resources.resources
+D:\shoolshit\DNP1Git\semProject\semProjectClient\obj\Debug\chatClient.csproj.GenerateResource.Cache
+D:\git repo stuff\C#\WinformChat\chatClient\bin\Debug\semProjectClient.exe.config
+D:\git repo stuff\C#\WinformChat\chatClient\obj\Debug\semProjectClient.exe
+D:\git repo stuff\C#\WinformChat\chatClient\obj\Debug\semProjectClient.pdb

@@ -1,0 +1,8 @@
+D:\shoolshit\DNP1Git\semProject\semProject\bin\Debug\semProject.exe.config
+D:\shoolshit\DNP1Git\semProject\semProject\bin\Debug\semProject.exe
+D:\shoolshit\DNP1Git\semProject\semProject\bin\Debug\semProject.pdb
+D:\shoolshit\DNP1Git\semProject\semProject\obj\Debug\semProject.Form1.resources
+D:\shoolshit\DNP1Git\semProject\semProject\obj\Debug\semProject.Properties.Resources.resources
+D:\shoolshit\DNP1Git\semProject\semProject\obj\Debug\semProjectServer.csproj.GenerateResource.Cache
+D:\shoolshit\DNP1Git\semProject\semProject\obj\Debug\semProject.exe
+D:\shoolshit\DNP1Git\semProject\semProject\obj\Debug\semProject.pdb

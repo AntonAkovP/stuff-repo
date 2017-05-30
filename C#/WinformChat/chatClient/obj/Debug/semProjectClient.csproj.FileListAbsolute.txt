@@ -1,0 +1,12 @@
+D:\shoolshit\DNP1Git\semProject\semProjectClient\bin\Debug\semProjectClient.exe.config
+D:\shoolshit\DNP1Git\semProject\semProjectClient\bin\Debug\semProjectClient.exe
+D:\shoolshit\DNP1Git\semProject\semProjectClient\bin\Debug\semProjectClient.pdb
+D:\shoolshit\DNP1Git\semProject\semProjectClient\obj\Debug\semProjectClient.LoginForm.resources
+D:\shoolshit\DNP1Git\semProject\semProjectClient\obj\Debug\semProjectClient.Properties.Resources.resources
+D:\shoolshit\DNP1Git\semProject\semProjectClient\obj\Debug\semProjectClient.csproj.GenerateResource.Cache
+D:\shoolshit\DNP1Git\semProject\semProjectClient\obj\Debug\semProjectClient.exe
+D:\shoolshit\DNP1Git\semProject\semProjectClient\obj\Debug\semProjectClient.pdb
+D:\shoolshit\DNP1Git\semProject\semProjectClient\obj\Debug\semProjectClient.MainForm.resources
+D:\shoolshit\DNP1Git\semProject\semProjectClient\obj\Debug\semProjectClient.ChatForm.resources
+D:\shoolshit\DNP1Git\semProject\semProjectClient\bin\Debug\semProjectClient.exe.CodeAnalysisLog.xml
+D:\shoolshit\DNP1Git\semProject\semProjectClient\bin\Debug\semProjectClient.exe.lastcodeanalysissucceeded
